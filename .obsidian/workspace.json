@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1146af2ba78d7f2e",
+        "id": "0eb5cd9008f15b10",
         "type": "tabs",
         "children": [
           {
-            "id": "f899bd6f3d5d1ad2",
+            "id": "0f920c2db501ced7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "09591186677c01b8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -100,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Амира (Зеркало Прошлого)"
+              "title": "Backlinks"
             }
           },
           {
@@ -190,9 +179,19 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "8d4425f6d0c13c33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -221,8 +220,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "f899bd6f3d5d1ad2",
+  "active": "a8cbb47bbcf08ebe",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Персонажи/Игроки/Альмириальда (Косплеер).md",
+    "Assets/Images/char_Alan Sovierign.jpg",
     "Сюжет/Квесты/Квест 1. Забытый.md",
     "Локации/Загородный дом (Экстерьер).md",
     "Локации/Улицы ночного Чикаго.md",
@@ -249,7 +251,6 @@
     "Персонажи/Неигровые Персонажи/Сородичи/Слабокровные",
     "Assets/Images/ext_chicago.jpg",
     "Assets/Images/char_Teo Student.jpg",
-    "Assets/Images/char_Alan Sovierign.jpg",
     "Assets/Images/char_Ghost.jpg",
     "Assets/Images/char_raphael.jpg",
     "Assets/Images/int_Клуб «Blue Velvet».jpg",
@@ -265,10 +266,8 @@
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Максимильян Лемарк (Maximilian Lemark).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Артур Феникс (Arthur Phoenix).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Лестер Knife (Lester Knife).md",
-    "Персонажи/Игроки/Альмириальда (Косплеер).md",
     "Assets/Music.md",
     "Персонажи/Игроки/Сехмет (Сехи) Нефертари.md",
-    "Персонажи/Неигровые Персонажи/Сородичи/Камарилья/Чарльз 'Крюк' Доусон.md",
     "Untitled.canvas"
   ]
 }
