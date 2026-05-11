@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1f8d2ca395d84f",
+        "id": "1146af2ba78d7f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b40b2853c63622",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "54895b1f38fe818a",
+            "id": "f899bd6f3d5d1ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Неигровые Персонажи/Камарилья/Кевин Джексон.md",
+                "file": "Сюжет/Квесты/Квест 1. Забытый.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кевин Джексон"
-            }
-          },
-          {
-            "id": "a7bf6cf2d5260c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/Неигровые Персонажи/Камарилья/'Док' Генри (Шарль Анри Антоний Блок, граф де Рошфор).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "'Док' Генри (Шарль Анри Антоний Блок, граф де Рошфор)"
-            }
-          },
-          {
-            "id": "dd6265189e4e9b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/Игроки/Сехмет (Сехи) Нефертари.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сехмет (Сехи) Нефертари"
-            }
-          },
-          {
-            "id": "8ebb3f76e6f001ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Абрахам ДюСабле (Abraham DuSable).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Абрахам ДюСабле (Abraham DuSable)"
+              "title": "Квест 1. Забытый"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Абрахам ДюСабле (Abraham DuSable).md",
+                "file": "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Абрахам ДюСабле (Abraham DuSable)"
+              "title": "Backlinks for Амира (Зеркало Прошлого)"
             }
           },
           {
@@ -166,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Абрахам ДюСабле (Abraham DuSable).md",
+                "file": "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Абрахам ДюСабле (Abraham DuSable)"
+              "title": "Outgoing links from Амира (Зеркало Прошлого)"
             }
           },
           {
@@ -209,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Абрахам ДюСабле (Abraham DuSable).md",
+                "file": "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Абрахам ДюСабле (Abraham DuSable)"
+              "title": "Outline of Амира (Зеркало Прошлого)"
             }
           },
           {
@@ -254,44 +201,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8ebb3f76e6f001ee",
+  "active": "f899bd6f3d5d1ad2",
   "lastOpenFiles": [
-    "Эрихто (Erichtho).md",
-    "Абрахам ДюСабле (Abraham DuSable).md",
-    "Персонажи/Неигровые Персонажи/Анархи/Анита Уэйнрайт (Anita Wainwright).md",
-    "Персонажи/Неигровые Персонажи/Тремер",
-    "Персонажи/Неигровые Персонажи/Анархи/Мяртин 'Бархатный кот' Гейзенберг.md",
-    "Персонажи/Неигровые Персонажи/Анархи/Максимильян Лемарк (Maximilian Lemark).md",
-    "Персонажи/Неигровые Персонажи/Анархи/Артур Феникс (Arthur Phoenix).md",
-    "Персонажи/Неигровые Персонажи/Анархи/Лестер Knife (Lester Knife).md",
-    "Assets/Music/AfterFight_Drifting Memories - The Mini Vandals.mp3",
-    "Персонажи/Неигровые Персонажи/Анархи",
+    "Локации/Улицы ночного Чикаго.md",
+    "Сюжет/Квесты/Квест 1. Забытый.md",
+    "Клуб “Blue Velvet”.md",
+    "Локации/Клуб Blue Velvet.md",
+    "Сюжет/Сюжет Кампании «Знамение Геенны».md",
+    "Сюжет/Квесты",
+    "Сюжет/Расклад Политических Сил.md",
+    "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
+    "Сюжет",
+    "Персонажи/Неигровые Персонажи/Призраки/Сара (Невинная Жертва).md",
+    "Персонажи/Неигровые Персонажи/Призраки/Лейла (Преданная Поэтесса).md",
+    "Персонажи/Неигровые Персонажи/Призраки/Хаген Вельф (Раздвоенный Художник).md",
+    "Персонажи/Неигровые Персонажи/Люди/Кира Сайфер (Расследователь).md",
+    "Персонажи/Неигровые Персонажи/Призраки",
+    "Персонажи/Неигровые Персонажи/Сородичи/Шабаш/Рафаэль де Луна Веласкес (Rafael de Luna y Velázquez).md",
+    "Персонажи/Неигровые Персонажи/Люди",
+    "Персонажи/Неигровые Персонажи/Сородичи",
+    "Персонажи/Неигровые Персонажи/Сородичи/Министерство (Сетиты)/Марсель.md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Шабаш",
+    "Персонажи/Неигровые Персонажи/Сородичи/Геката (некроманты)",
+    "Персонажи/Неигровые Персонажи/Сородичи/Слабокровные/Бен Галура (Ben Galura).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Министерство (Сетиты)",
+    "Персонажи/Неигровые Персонажи/Сородичи/Слабокровные",
+    "Assets/Images/ext_chicago.jpg",
+    "Assets/Images/char_Teo Student.jpg",
+    "Assets/Images/char_Alan Sovierign.jpg",
+    "Assets/Images/char_Ghost.jpg",
+    "Assets/Images/char_raphael.jpg",
+    "Assets/Images/int_Клуб «Blue Velvet».jpg",
+    "Assets/Images/ext_chicago_street.jpg",
+    "Assets/Images/ext_mansion.jpg",
+    "Assets/Images/int_Mansion.jpg",
+    "Assets/Images/quest_dairy.jpg",
+    "Персонажи/Неигровые Персонажи/Сородичи/Тремер/Абрахам ДюСабле (Abraham DuSable).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Тремер/Эрихто (Erichtho).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Анита Уэйнрайт (Anita Wainwright).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Тремер",
+    "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Мяртин 'Бархатный кот' Гейзенберг.md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Максимильян Лемарк (Maximilian Lemark).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Артур Феникс (Arthur Phoenix).md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Лестер Knife (Lester Knife).md",
     "Персонажи/Игроки/Альмириальда (Косплеер).md",
-    "Assets/Music/VelvetClub_Cottonmouth Strut - The Whole Other.mp3",
-    "Assets/Music/NightChicagoStart_221B Baker Street - Hanu Dixit.mp3",
-    "Assets/Music/VelvetClubBriefing_Blue Mood - Robert Munzinger.mp3",
-    "Assets/Music/NightChicago_City Walk - John Patitucci.mp3",
-    "Assets/Music/RaphaelTragic_Moritas Moras - House of the Gipsies.mp3",
-    "Assets/Music/RaphaelTheme_Campo Gitano - House of the Gipsies.mp3",
-    "Assets/Music/Fight_Duty Calls - Rod Kim.mp3",
     "Assets/Music.md",
     "Персонажи/Игроки/Сехмет (Сехи) Нефертари.md",
-    "Персонажи/Неигровые Персонажи/Камарилья/Чарльз 'Крюк' Доусон.md",
-    "Персонажи/Неигровые Персонажи/Камарилья/Став Леви-Гроссман.md",
-    "Персонажи/Неигровые Персонажи/Камарилья/'Док' Генри (Шарль Анри Антоний Блок, граф де Рошфор).md",
-    "Персонажи/Неигровые Персонажи/Камарилья/Алан Суверен.md",
-    "Персонажи/Неигровые Персонажи/Камарилья/Маркус (Переговорщик).md",
-    "Персонажи/Игроки/Тали (Роса) Аманиэль.md",
-    "Персонажи/Неигровые Персонажи/Камарилья/glitch2501 (Иоганн Конрад Штрассер).md",
-    "Персонажи/Неигровые Персонажи/Камарилья/Кевин Джексон.md",
-    "Untitled.canvas",
-    "Фракции/Сородичи/Министерство (Сетиты).md",
-    "Фракции/Люди/Власти и Полиция.md",
-    "Фракции/Сородичи/Геката.md",
-    "Фракции/Сородичи/Анархи.md",
-    "Локации/Город Чикаго.md",
-    "Фракции/Сородичи/Тремер.md",
-    "Фракции/Сородичи/Шабаш.md",
-    "Фракции/Люди/Вторая Инквизиция (SI).md"
+    "Персонажи/Неигровые Персонажи/Сородичи/Камарилья/Чарльз 'Крюк' Доусон.md",
+    "Персонажи/Неигровые Персонажи/Сородичи/Камарилья/Став Леви-Гроссман.md",
+    "Untitled.canvas"
   ]
 }
