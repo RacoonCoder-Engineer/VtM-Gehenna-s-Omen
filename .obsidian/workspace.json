@@ -11,13 +11,102 @@
             "id": "be79156d312d0b26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Город Чикаго.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Город Чикаго"
+            }
+          },
+          {
+            "id": "48f4e4fc22a882b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фракции/Камарилья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Камарилья"
+            }
+          },
+          {
+            "id": "003eab834bbf555b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фракции/Анархи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анархи"
+            }
+          },
+          {
+            "id": "6e3d4304f493947c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Министерство (Сетиты).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Министерство (Сетиты)"
+            }
+          },
+          {
+            "id": "e6779d991d8893b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тремер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тремер"
+            }
+          },
+          {
+            "id": "037a73c9b42eaa88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геката.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Геката"
+            }
+          },
+          {
+            "id": "f547f6fe7b5f3c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шабаш.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шабаш"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "e0d37370c8546b61",
@@ -106,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Шабаш.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Шабаш"
             }
           },
           {
@@ -124,11 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Шабаш.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Шабаш"
             }
           },
           {
@@ -166,13 +257,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Шабаш.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Шабаш"
+            }
+          },
+          {
+            "id": "12e04154d9f41a18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -190,13 +291,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8cbb47bbcf08ebe",
+  "active": "f547f6fe7b5f3c66",
   "lastOpenFiles": [
+    "Геката.md",
+    "Шабаш.md",
+    "Тремер.md",
+    "Министерство (Сетиты).md",
+    "Фракции/Анархи.md",
+    "Фракции/Камарилья.md",
+    "Locations/Город Чикаго.md",
+    "Фракции",
+    "Locations",
     "Welcome.md",
-    "Untitled.md",
     "LICENSE"
   ]
 }
