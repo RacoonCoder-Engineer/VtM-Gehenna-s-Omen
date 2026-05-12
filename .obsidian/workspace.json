@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0eb5cd9008f15b10",
+        "id": "17581fd9ca01c151",
         "type": "tabs",
         "children": [
           {
-            "id": "0f920c2db501ced7",
+            "id": "efdd83b0d0b6068d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Правила Игры/VtM_v5_new.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "VtM_v5_new"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Правила Игры/VtM_v5_new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for VtM_v5_new"
             }
           },
           {
@@ -223,6 +228,8 @@
   "active": "a8cbb47bbcf08ebe",
   "lastOpenFiles": [
     "Untitled Kanban.md",
+    "Правила Игры/VtM_v5_new.md",
+    "Правила Игры",
     "Персонажи/Игроки/Альмириальда (Косплеер).md",
     "Assets/Images/char_Alan Sovierign.jpg",
     "Сюжет/Квесты/Квест 1. Забытый.md",
@@ -261,13 +268,11 @@
     "Персонажи/Неигровые Персонажи/Сородичи/Тремер/Абрахам ДюСабле (Abraham DuSable).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Тремер/Эрихто (Erichtho).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Анита Уэйнрайт (Anita Wainwright).md",
-    "Персонажи/Неигровые Персонажи/Сородичи/Тремер",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Мяртин 'Бархатный кот' Гейзенберг.md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Максимильян Лемарк (Maximilian Lemark).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Артур Феникс (Arthur Phoenix).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Лестер Knife (Lester Knife).md",
     "Assets/Music.md",
-    "Персонажи/Игроки/Сехмет (Сехи) Нефертари.md",
     "Untitled.canvas"
   ]
 }
