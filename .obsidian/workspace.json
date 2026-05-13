@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17581fd9ca01c151",
+        "id": "06a5b615cb003514",
         "type": "tabs",
         "children": [
           {
-            "id": "efdd83b0d0b6068d",
+            "id": "760d104188133eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,7 +225,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "a8cbb47bbcf08ebe",
+  "active": "760d104188133eb6",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "Правила Игры/VtM_v5_new.md",
