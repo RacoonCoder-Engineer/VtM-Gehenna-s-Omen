@@ -11,20 +11,14 @@
             "id": "760d104188133eb6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Сюжет/Лор.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Лор"
             }
           }
         ]
@@ -233,8 +227,9 @@
   },
   "active": "760d104188133eb6",
   "lastOpenFiles": [
-    "Правила Игры/VtM_v5_new.md",
+    "Таблица отношений.md",
     "Untitled Kanban.md",
+    "Правила Игры/VtM_v5_new.md",
     "Правила Игры",
     "Персонажи/Игроки/Альмириальда (Косплеер).md",
     "Assets/Images/char_Alan Sovierign.jpg",
@@ -245,7 +240,7 @@
     "Локации/Клуб Blue Velvet.md",
     "Сюжет/Сюжет Кампании «Знамение Геенны».md",
     "Сюжет/Квесты",
-    "Сюжет/Расклад Политических Сил.md",
+    "Сюжет/Лор.md",
     "Персонажи/Неигровые Персонажи/Призраки/Амира (Зеркало Прошлого).md",
     "Сюжет",
     "Персонажи/Неигровые Персонажи/Призраки/Сара (Невинная Жертва).md",
@@ -278,7 +273,6 @@
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Максимильян Лемарк (Maximilian Lemark).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Артур Феникс (Arthur Phoenix).md",
     "Персонажи/Неигровые Персонажи/Сородичи/Анархи/Лестер Knife (Lester Knife).md",
-    "Assets/Music.md",
     "Untitled.canvas"
   ]
 }
