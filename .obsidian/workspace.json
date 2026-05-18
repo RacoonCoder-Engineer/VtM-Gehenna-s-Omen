@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сюжет/Квесты/Квест 1.1. Воссоединение.md",
+                "file": "Правила Игры/VtM_v5_new.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Квест 1.1. Воссоединение"
+              "title": "VtM_v5_new"
             }
           }
         ]
@@ -225,10 +225,10 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "760d104188133eb6",
+  "active": "a8cbb47bbcf08ebe",
   "lastOpenFiles": [
-    "Сюжет/Квесты/Квест 1. Забытый.md",
     "Сюжет/Квесты/Квест 1.1. Воссоединение.md",
+    "Сюжет/Квесты/Квест 1. Забытый.md",
     "Сюжет/Темная Хроника.md",
     "Правила Игры/VtM_v5_new.md",
     "Канбан Дел по Кампании.md",
